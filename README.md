@@ -1,3 +1,8 @@
 # A-Comprehensive-Analysis-of-Parking-Violations-in-New-York-City-Unraveling-Patterns-and-Implications
 The research provides a nuanced understanding of the evolving urban dynamics and the potential for data-driven methods in public policy and governance with NYC parking tickets issued from 2019 to 2023..
 Authors: Shubham Laxmikant Deshmukh, Sai Manas Rao Pulakonti, Sriharsha Vemuri
+
+This research study provides a thorough examination of parking infractions in New York City spanning the years 2019 to 2023, with specific emphasis on the subset of data from 2023. The study starts with an initial examination of the NYC parking tickets dataset through exploratory data analysis (EDA). This analysis investigates the distribution of tickets across different boroughs, temporal trends, and the overall financial consequences of parking offenses on the city. The study also examines the impact of the Covid-19 period on violation codes, ticket counts, and longitudinal patterns across different boroughs. 
+The second phase of the study presents a machine learning algorithm that can accurately forecast violation codes. This algorithm provides government entities with a helpful tool to improve revenue management and allocate resources more effectively. The prediction algorithms utilize past trends and variables such as location and time to aid in the early detection of possible infractions, hence facilitating effective and fair law enforcement. 
+The research offers a sophisticated comprehension of the changing urban dynamics and the capacity for data-driven approaches in public policy and governance.
+
